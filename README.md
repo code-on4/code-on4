@@ -1,4 +1,5 @@
 **Akpasubi Michael | Software Engineer**
+
 Highly technical Software Developer focused on building scalable SaaS platforms, high-throughput systems, and full-stack applications. I specialize in modern web technologies and robust data modeling to solve complex social and financial challenges.
 
 🚀 Technical Expertise
