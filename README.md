@@ -4,6 +4,7 @@
 </p>
 
 🚀 Tech Stack
+
 Languages & Frameworks: React, TypeScript, Next.js.
 
 Styling & UI: Tailwind CSS, Responsive Web Design.
@@ -14,7 +15,9 @@ State Management: RTK Query, Redux, ContextAPI, Zustand.
 
 📈 Current Focus
 Architecting scalable, multi-tenant infrastructures.
+
 Optimizing developer workflows within the JetBrains ecosystem (WebStorm).
+
 Exploring the financial technology landscape within the banking sector.
 
 📫 Connect With Me
