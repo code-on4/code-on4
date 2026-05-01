@@ -24,3 +24,5 @@ Portfolio:
 Tools: Primary IDE: JetBrains IDE.
 
 Workflow: Proficient in managing complex Git environments and multi-account GitHub configurations.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-on4&theme=dark)](https://git.io/streak-stats)
