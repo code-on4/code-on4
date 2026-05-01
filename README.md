@@ -2,10 +2,6 @@
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer</strong>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-on4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=code-on4&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 🚀 Tech Stack
 Languages & Frameworks: React, TypeScript, Next.js.
@@ -27,6 +23,10 @@ Portfolio:
 Tools: Primary IDE: JetBrains IDE.
 
 Workflow: Proficient in managing complex Git environments and multi-account GitHub configurations.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-on4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 
 
