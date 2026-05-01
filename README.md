@@ -28,9 +28,7 @@ Tools: Primary IDE: JetBrains IDE.
 Workflow: Proficient in managing complex Git environments and multi-account GitHub configurations.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-on4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=code-on4&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=code-on4&theme=dark)](https://git.io/streak-stats)
