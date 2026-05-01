@@ -3,12 +3,6 @@
   <strong>Software Engineer | Full-Stack Developer</strong>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=code-on4&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Tech Stack
@@ -36,6 +30,8 @@
 
 ---
 
-<div align="center">
-  <p><i>Building the infrastructure of tomorrow, one commit at a time.</i></p>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=code-on4&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
