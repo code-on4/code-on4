@@ -18,7 +18,6 @@
 
 *   **System Architecture**: Designing scalable, multi-tenant infrastructures.
 *   **Developer Experience**: Optimizing workflows within the **JetBrains** ecosystem (WebStorm).
-*   **Fintech**: Exploring the financial technology landscape and banking sector.
 
 ---
 
