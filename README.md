@@ -23,14 +23,7 @@
 
 ### 📫 Connect With Me
 
-*   **Portfolio**: https://osaremenn.vercel.app/
 *   **Tools**: Primary IDE: JetBrains (WebStorm).
 *   **Workflow**: Proficient in managing complex Git environments and multi-account GitHub configurations.
 
 ---
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=code-on4&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
